@@ -10,5 +10,4 @@ public class Negozio {
 		add(new Computer("Asus","PXX","I4",8,300,new Monitor(15, "Nero")));		//secondo computer
 		add(new Computer("Lenovo","IdeaPad","I7",16,800,new Monitor(17, "Grigio")));		//terzo computer	
 	}};
-	
 }

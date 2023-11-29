@@ -44,5 +44,4 @@ public class Monitor {
 	void spegni() {
 		stato=true;
 	}
-	
 }
